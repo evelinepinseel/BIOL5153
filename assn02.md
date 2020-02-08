@@ -2,15 +2,10 @@
 #### *Curriculum vitae | February 8 2020*
 <br/><br/>
 eveline.pinseel@gmail.com |
-[ResearchGate](https://www.researchgate.net/profile/Eveline_Pinseel)
-[personal website](https://evelinepinseel.weebly.com/)
-[Twitter](https://twitter.com/EvelinePinseel)
-[LinkedIn](https://www.linkedin.com/in/eveline-pinseel-8405ab90/)
-[Orcid](http://orcid.org/0000-0002-1801-2187)
-[Google Scholar](https://scholar.google.be/citations?user=5miI2aQAAAAJ&hl=nl)
+[ResearchGate](https://www.researchgate.net/profile/Eveline_Pinseel) | [personal website](https://evelinepinseel.weebly.com/) | [Twitter](https://twitter.com/EvelinePinseel) | [LinkedIn](https://www.linkedin.com/in/eveline-pinseel-8405ab90/) | [Orcid](http://orcid.org/0000-0002-1801-2187) | [Google Scholar](https://scholar.google.be/citations?user=5miI2aQAAAAJ&hl=nl)
 <br/><br/>
 
-#### **Professional experience**\
+#### **Professional experience**
 ____________________________________________________________________________________________________________________
 
 ***2020*** | **BAEF & Fulbright postdoctoral fellow** | University of Arkansas, Fayetteville, USA ([Alverson lab](https://www.alversonlab.com/))\
@@ -27,7 +22,7 @@ Study of the community structure, diversity and taxonomy of High Arctic diatoms,
 Supervisors: Prof. Dr. Bart Van de Vijver, Dr. Katerina Kopalova\
 <br/><br/>
 
-#### **Education**\
+#### **Education**
 ____________________________________________________________________________________________________________________
 
 ***2014 - 2019*** | **PhD in Biology** | Ghent University, Gent, Belgium & Meise Botanic Garden, Meise, Belgium
@@ -39,7 +34,7 @@ graduated *summa cum laude*
 graduated *summa cum laude*
 <br/><br/>
 
-#### **Grants & Fellowships**\
+#### **Grants & Fellowships**
 ____________________________________________________________________________________________________________________
 
 ***2019*** | **FWO travel grant** for participation in the *7th European Phycological Congress*, Zagreb, Croatia\
@@ -50,7 +45,7 @@ ________________________________________________________________________________
 ***2014*** | **FWO PhD Fellowship** ([Research Foundation Flanders](https://www.fwo.be/en/))
 <br/><br/>
 
-#### **Awards**\
+#### **Awards**
 ____________________________________________________________________________________________________________________
 
 ***2019*** | **Best student lecture**, *7th European Phycological Congress*, Zagreb, Croatia\
@@ -77,7 +72,7 @@ The shortlist consisted of the top 5 out of 129 master theses\
 Title: *Diversity & ecology of freshwater diatoms (Bacillariophyta) in Petuniabukta (Spitsbergen, Svalbard)*\
 <br/><br/>
 
-#### **Refereed journal articles**\
+#### **Refereed journal articles**
 ____________________________________________________________________________________________________________________
 
 **2019**
@@ -117,7 +112,7 @@ A2 | Vinsova P., **Pinseel E.**, Kohler T.J., Van de Vijver B., Zarsky T.J., Van
 A1 | **Pinseel E.**, Kopalova K. & Van de Vijver B. *Gomphonema svalbardense* sp. nov., a new freshwater diatom species (Bacillariophyta) from the Arctic Region. *Phytotaxa* 170: 250-258. [**DOI**](https://doi.org/10.11646/phytotaxa.170.4.2)
 <br/><br/>
 
-#### **International experience**\
+#### **International experience**
 ____________________________________________________________________________________________________________________
 
 ***2016 - 2017*** | [**Antarctic Circumnavigation Expedition**](https://spi-ace-expedition.ch/) (leg 1)\
@@ -129,7 +124,7 @@ Field work in Spitsbergen (High Arctic) | five weeks divided over two field seas
 Participation as a student (2013, supervised by Dr. Katerina Kopalova) and instructor (2014)\
 <br/><br/>
 
-#### **Teaching & Mentorship**\
+#### **Teaching & Mentorship**
 ____________________________________________________________________________________________________________________
 
 **Teaching**\
@@ -153,7 +148,7 @@ Reine Audenaert, BSc, Vives University of Applied Sciences, Belgium (2017 - 2018
 Anton McDonnell, MSc, Dublin City University, Ireland (2015 - 2016)
 <br/><br/>
 
-#### **Scientific membership & service**\
+#### **Scientific membership & service**
 ____________________________________________________________________________________________________________________
 
 **Board member**\
@@ -168,7 +163,7 @@ ________________________________________________________________________________
 *Diatom Research*; *Fottea*; *Journal of Phycology*; *Phycological Research*; *Phytotaxa*; *PLoS ONE*
 <br/><br/>
 
-#### **Skills**\
+#### **Skills**
 ____________________________________________________________________________________________________________________
 
 **Computer**
