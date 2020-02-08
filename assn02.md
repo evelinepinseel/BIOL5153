@@ -59,7 +59,7 @@ Title: *Opening Pandora's box: molecular diversity, evolutionary history and phy
 ***2016*** | **Best student lecture**, *24th International Diatom Symposium*, Quebec, Canada\
 Title: *Opening Pandora's box: species diversity, evolutionary history and biogeography of the Pinnularia borealis species complex*\
 ***2016*** | **Second best student speed talk**, *24th International Diatom Symposium*, Quebec, Canada\
-Title: *Disentangling the evolutionary history and biogeography of the diatoms in the Polar Regions: data from fossils and molecular phylogenies*
+Title: *Disentangling the evolutionary history and biogeography of the diatoms in the Polar Regions: data from fossils and molecular phylogenies*\
 ***2016*** | **Young Botanist Award**\
 Royal Belgian Botanical Society\
 Awarded at the *3th Annual Meeting on Plant Ecology & Evolution*, Ghent, Belgium\
