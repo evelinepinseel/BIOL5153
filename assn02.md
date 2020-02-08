@@ -1,16 +1,16 @@
-<h2> **Eveline Pinseel** </h2>
-<h4> *Curriculum vitae | February 8 2020* </h4>
+## **Eveline Pinseel**
+#### *Curriculum vitae | February 8 2020*
 <br/><br/>
 eveline.pinseel@gmail.com |
-[ResearchGate](https://www.researchgate.net/profile/Eveline_Pinseel) |
-[personal website](https://evelinepinseel.weebly.com/) |
-[Twitter](https://twitter.com/EvelinePinseel) |
-[LinkedIn](https://www.linkedin.com/in/eveline-pinseel-8405ab90/) |
-[Orcid](http://orcid.org/0000-0002-1801-2187) |
+[ResearchGate](https://www.researchgate.net/profile/Eveline_Pinseel)
+[personal website](https://evelinepinseel.weebly.com/)
+[Twitter](https://twitter.com/EvelinePinseel)
+[LinkedIn](https://www.linkedin.com/in/eveline-pinseel-8405ab90/)
+[Orcid](http://orcid.org/0000-0002-1801-2187)
 [Google Scholar](https://scholar.google.be/citations?user=5miI2aQAAAAJ&hl=nl)
 <br/><br/>
 
-<h4> **Professional experience** </h4>
+#### **Professional experience**\
 ____________________________________________________________________________________________________________________
 
 ***2020*** | **BAEF & Fulbright postdoctoral fellow** | University of Arkansas, Fayetteville, USA ([Alverson lab](https://www.alversonlab.com/))\
@@ -26,16 +26,20 @@ Supervisors: Prof. Dr. Wim Vyverman, Prof. Dr. Bart Van de Vijver
 Study of the community structure, diversity and taxonomy of High Arctic diatoms, and the application of diatoms in paleoecology\
 Supervisors: Prof. Dr. Bart Van de Vijver, Dr. Katerina Kopalova\
 <br/><br/>
-<h4> **Education** </h4>
+
+#### **Education**\
 ____________________________________________________________________________________________________________________
 
 ***2014 - 2019*** | **PhD in Biology** | Ghent University, Gent, Belgium & Meise Botanic Garden, Meise, Belgium
 
-***2012 - 2014*** | **Master in Biology: Ecology & Environment** | University of Antwerp, Antwerp, Belgium | graduated *summa cum laude*
+***2012 - 2014*** | **Master in Biology: Ecology & Environment** | University of Antwerp, Antwerp, Belgium\
+graduated *summa cum laude*
 
-***2009 - 2012*** | **Bachelor in Biology**  | University of Antwerp, Antwerp, Belgium | graduated *summa cum laude*
+***2009 - 2012*** | **Bachelor in Biology**  | University of Antwerp, Antwerp, Belgium\
+graduated *summa cum laude*
 <br/><br/>
-<h4> **Grants & Fellowships** </h4>
+
+#### **Grants & Fellowships**\
 ____________________________________________________________________________________________________________________
 
 ***2019*** | **FWO travel grant** for participation in the *7th European Phycological Congress*, Zagreb, Croatia\
@@ -46,7 +50,7 @@ ________________________________________________________________________________
 ***2014*** | **FWO PhD Fellowship** ([Research Foundation Flanders](https://www.fwo.be/en/))
 <br/><br/>
 
-<h4> **Awards** </h4>
+#### **Awards**\
 ____________________________________________________________________________________________________________________
 
 ***2019*** | **Best student lecture**, *7th European Phycological Congress*, Zagreb, Croatia\
@@ -73,7 +77,7 @@ The shortlist consisted of the top 5 out of 129 master theses\
 Title: *Diversity & ecology of freshwater diatoms (Bacillariophyta) in Petuniabukta (Spitsbergen, Svalbard)*\
 <br/><br/>
 
-<h4> **Refereed journal articles** </h4>
+#### **Refereed journal articles**\
 ____________________________________________________________________________________________________________________
 
 **2019**
@@ -112,23 +116,25 @@ A2 | Vinsova P., **Pinseel E.**, Kohler T.J., Van de Vijver B., Zarsky T.J., Van
 
 A1 | **Pinseel E.**, Kopalova K. & Van de Vijver B. *Gomphonema svalbardense* sp. nov., a new freshwater diatom species (Bacillariophyta) from the Arctic Region. *Phytotaxa* 170: 250-258. [**DOI**](https://doi.org/10.11646/phytotaxa.170.4.2)
 <br/><br/>
-<h4> **International experience** </h4>
+
+#### **International experience**\
 ____________________________________________________________________________________________________________________
 
 ***2016 - 2017*** | [**Antarctic Circumnavigation Expedition**](https://spi-ace-expedition.ch/) (leg 1)\
 Field work in Sub-Antarctica (Marion Island, Crozet, Kerguelen) and Australia | six weeks\
 Team leader: Prof. Dr. Dominic Hodgson (British Antarctic Survey)\
-***2016** | **Research stay at the Museum of Nature**, Ottawa, Canada | worked with Paul Hamilton | two weeks\
+***2016*** | **Research stay at the Museum of Nature**, Ottawa, Canada | worked with Paul Hamilton | two weeks\
 ***2013 - 2014*** | **Polar Ecology Course** ([Centre For Polar Ecology](https://www.prf.jcu.cz/en/cpe.html), University of South Bohemia, Czech Republic)\
 Field work in Spitsbergen (High Arctic) | five weeks divided over two field seasons\
 Participation as a student (2013, supervised by Dr. Katerina Kopalova) and instructor (2014)\
 <br/><br/>
-<h4> **Teaching & Mentorship** </h4>
+
+#### **Teaching & Mentorship**\
 ____________________________________________________________________________________________________________________
 
 **Teaching**\
 ***2015 - 2017*** | *Limnological Methods* - Master Oceans & Lakes, Ghent University\
-***2015 - 2017*** | *Field Course Limnology* - Bachelor Biology, Ghent University\		
+***2015 - 2017*** | *Field Course Limnology* - Bachelor Biology, Ghent University\
 ***2015*** | *Algal Biodiversity Course* - PhD course, Ghent University
 
 **Mentorship of MSc students**\
@@ -145,9 +151,9 @@ Topic: *Diatoms in cryoconite holes and adjacent proglacial freshwater sediments
 Klara Filek, PhD, University of Zagreb, Croatia (one week in December 2018)\
 Reine Audenaert, BSc, Vives University of Applied Sciences, Belgium (2017 - 2018)\
 Anton McDonnell, MSc, Dublin City University, Ireland (2015 - 2016)
-
 <br/><br/>
-<h4> **Scientific membership & service** </h4>
+
+#### **Scientific membership & service**\
 ____________________________________________________________________________________________________________________
 
 **Board member**\
@@ -160,12 +166,12 @@ ________________________________________________________________________________
 
 **Reviewer**\
 *Diatom Research*; *Fottea*; *Journal of Phycology*; *Phycological Research*; *Phytotaxa*; *PLoS ONE*
-
 <br/><br/>
-<h4> **Skills** </h4>
+
+#### **Skills**\
 ____________________________________________________________________________________________________________________
 
-**Computer**\
+**Computer**
 - Extensive experience with statistics software (R); phylogenetics (e.g. RAxML, BEAST, MrBayes, Mesquite, IQ-TREE); environmental amplicon sequencing, eDNA (Uparse/Usearch, Mothur, DADA2); image processing software (Adobe Photoshop, Inkscape)\
 - Basic experience with Unix/Linux
 
@@ -176,7 +182,7 @@ Extensive experience with/in:
 - molecular lab analyses (DNA extraction, PCR, primer design, single cell Sanger sequencing)
 - light microscopy (bright field, differential inference contrast, epifluorescence)
 
-**Field work**\
+**Field work**
 - Experience with sampling of lakes, wetlands, and terrestrial environments for micro-organisms: lake sediment and peat coring, sampling of lakes and soils for culture establishment and DNA analysis, physicochemical measurements\
 - Confident working in extreme environments (High Arctic & Antarctic Regions), incl. working on a marine research vessel
 
