@@ -11,13 +11,13 @@ ________________________________________________________________________________
 ***2020*** | **BAEF & Fulbright postdoctoral fellow** | University of Arkansas, Fayetteville, USA ([Alverson lab](https://www.alversonlab.com/))\
 *Transcriptional changes in the marine diatom Skeletonema marinoi across the Baltic Sea salinity gradient*
 
-***2014 - 2019*** | **PhD student** | Ghent University, Belgium ([Laboratory of Protistology & Aquatic Ecology](https://www.ugent.be/we/biology/en/research/protistology)) and [Meise Botanic Garden](http://www.br.fgov.be/)\
+***2014 - 2019*** | **PhD student** | Ghent University, Belgium ([Protistology & Aquatic Ecology](https://www.ugent.be/we/biology/en/research/protistology)) and [Meise Botanic Garden](http://www.br.fgov.be/)\
 *Diversity, biogeography and evolutionary history of diatoms: Pinnularia borealis as a case study*\
 Phylogenetics, morphometrics, environmental metabarcoding, taxonomy & micropaleontology\
 Supervisors: Prof. Dr. Wim Vyverman, Prof. Dr. Bart Van de Vijver
 
 ***2012 - 2014*** | **Master student** | University of Antwerp, Antwerp, Belgium & Botanic Garden Meise, Meise, Belgium\
-*Environmental Changes in a High Arctic Ecosystem*\
+*Environmental changes in a High Arctic ecosystem*\
 Study of the community structure, diversity and taxonomy of High Arctic diatoms, and the application of diatoms in paleoecology\
 Supervisors: Prof. Dr. Bart Van de Vijver, Dr. Katerina Kopalova\
 <br/><br/>
