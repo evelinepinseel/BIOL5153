@@ -34,3 +34,5 @@ for i in gene_trees/*sched;do grep -L "Program Return Code: 0" $i;done | wc -l
 # assn03-8
 ls gene_trees/ | grep "\.tre" | sed "s/_raxml.tre//" > tre_names.txt; ls gene_trees/ | grep "\.fasta" | sed "s/.fasta//" > fasta_names.txt; diff tre_names.txt fasta_names.txt | grep ">" | sed "s/> //" > failed_files.txt;
 for i in $(cat failed_files.txt);do echo "write_raxml_job_script.py $i.fasta > $i.pbs";done > job_scripts.txt
+
+echo done
