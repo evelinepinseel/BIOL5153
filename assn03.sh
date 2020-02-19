@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # assn03-1
-for number in {808..8008}; do echo $number; done > numbers.txt
+for number in {808..8008}; do echo TR-$number; done > numbers.txt
 
 # assn03-2
 alias cl='clear'
