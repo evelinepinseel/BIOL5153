@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#PBS -N pinseel_assn04.3
+#PBS -q debug16core
+#PBS -j oe
+#PBS -m abe
+#PBS -M eapinsee@uark.edu
+#PBS -o pinseel_assn04.3.out.$PBS_JOBID
+#PBS -l nodes=1:ppn=2
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+makeblastdb -in watermelon.fsa -dbtype nucl -out watermelon_mitochondrial_genome_database -title watermelon_mitochondrial_genome_database
+blastn -query watermelon_nt/nad4L.fasta -db watermelon_mitochondrial_genome_database > pinseel_assn04.3.out 2>> pinseel_assn04.3.out

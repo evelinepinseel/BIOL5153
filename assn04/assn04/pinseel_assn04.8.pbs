@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#PBS -N pinseel_assn04.8
+#PBS -q debug16core
+#PBS -j oe
+#PBS -m abe
+#PBS -M eapinsee@uark.edu
+#PBS -o pinseel_assn04.8.out.$PBS_JOBID
+#PBS -l nodes=1:ppn=2
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+blastn -word_size 28 -reward 1 -penalty -2 -query watermelon.fsa -db watermelon_mitochondrial_genome_database -outfmt 6 > pinseel_assn04.8.1.out 2>> pinseel_assn04.8.1.out
+blastn -word_size 11 -reward 2 -penalty -3 -gapopen 5 -gapextend 2 -query watermelon.fsa -db watermelon_mitochondrial_genome_database -outfmt 6 > pinseel_assn04.8.2.out 2>> pinseel_assn04.8.2.out
+blastn -word_size 7 -reward 5 -penalty -4 -gapopen 8 -gapextend 6 -query watermelon.fsa -db watermelon_mitochondrial_genome_database -outfmt 6 > pinseel_assn04.8.3.out 2>> pinseel_assn04.8.3.out

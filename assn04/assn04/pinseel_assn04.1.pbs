@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#PBS -N pinseel_assn04.1
+#PBS -q debug16core
+#PBS -j oe
+#PBS -m abe
+#PBS -M eapinsee@uark.edu
+#PBS -o pinseel_assn04.1.out.$PBS_JOBID
+#PBS -l nodes=1:ppn=2
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+makeblastdb -in nad4L.fasta -dbtype nucl -out nad4L_database -title nad4L_database
+blastn -query nad4L.fasta -db nad4L_database > pinseel_assn04.1.out 2>> pinseel_assn04.1.out

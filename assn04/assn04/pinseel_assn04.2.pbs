@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#PBS -N pinseel_assn04.2
+#PBS -q debug16core
+#PBS -j oe
+#PBS -m abe
+#PBS -M eapinsee@uark.edu
+#PBS -o pinseel_assn04.2.out.$PBS_JOBID
+#PBS -l nodes=1:ppn=2
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+cat *fasta > all_nucleotides.fasta
+makeblastdb -in all_nucleotides.fasta -dbtype nucl -out nucleotide_database -title nucleotide_database
+blastn -query nad4L.fasta -db nucleotide_database > pinseel_assn04.2.out 2>> pinseel_assn04.2.out

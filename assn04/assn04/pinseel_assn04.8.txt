@@ -1,0 +1,12 @@
+#How many repeats do you find under the three settings (excl. genome hit)?
+default: 470
+somewhat sensitive: 2010
+sensitive: 1357
+
+#What is the size of the smallest repeat under each setting?
+default: 28
+somewhat sensitive: 18
+sensitive: 30
+
+#What parameter does this size directly relate to?
+Word_size, but the other parameters also play a role.

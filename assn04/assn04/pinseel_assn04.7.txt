@@ -1,0 +1,4 @@
+The raw score and the bit score do not vary with the size of the database.
+The e-value increases with the size of the database.
+This is because the raw score and the bit score are direclty based on sequence similarity and independent of database size.
+In contrast, the e-value indicates the number of hits to be expected by chance: i.e. the larger a database, the higher the number of hits to be expected by pure chance.
