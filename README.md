@@ -3,3 +3,7 @@
 1. assn01.sh
 2. assn02.md
 3. assn03.sh
+4. p4b_ch02.ipynb
+5. p4b_ch03.ipynb
+6. p4b_ch04.ipynb
+7. p4b_ch09.ipynb
