@@ -10,3 +10,4 @@
 8. parseGFF.py (assn05)
 9. 04-05-20_parseGFF.py (assn06)
 10. p4b_ch07.ipynb
+11. katherine.py (assn08)
